@@ -7,3 +7,5 @@ Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key P...:https://w
 在CPU上跑yolov5（详细步骤+适合入门）_yolo 怎么跑起来-CSDN博客:https://blog.csdn.net/weixin_54721509/article/details/122983561
 
 Robowflow Tennis ball Dataset:https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection
+
+https://www.youtube.com/watch?v=MdF6x6ZmLAY
